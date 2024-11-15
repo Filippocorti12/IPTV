@@ -184,8 +184,10 @@ http://7goldemiliaromagna.tv/7-gold-live-streaming/
 https://player-api.new.livestream.com/accounts/31041674/events/10233280/broadcasts/253202725.secure.m3u8?dw=14400&hdnea=st%3D1730888490~exp%3D1730890290~acl%3D%2Fi%2F31041674_10233280_lsi1q6y8cobpvigojxx_1%40147528%2F%2A~hmac%3Da1c25e3212d2eea01d1abbf6b49cd324b6c3f951c2c9f0d9bc865d824fb48e44&token=672b4456_9b1ce71c656aaaa8a3c237f97b34efd075e0baeb
 #EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title="Informazione italiana", Teleromagna
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title="Informazione italiana", TRC Bologna
-https://playback2.akamaized.net/streams/31041674_10235994_lsiy7dw8umddm9g0kjg_1/exp=1731764564~acl=%2f*~data=hdntl~hmac=eeac2479591c96f752f3b6359f7b800a09efd35dd88b8909d6ea2f8aefc8182e/media/31041674_10235994_lsiy7dw8umddm9g0kjg_1@5256000p.m3u8?dw=14400&ts=1731675600
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title=", TRC Bologna
+https://playback2.akamaized.net/streams/31041674_10235994_lsiy7dw8umddm9g0kjg_1/exp=1731764564~acl=%2f*~data=hdntl~hmac=eeac2479591c96f752f3b6359f7b800a09efd35dd88b8909d6ea2f8aefc8182e/media/31041674_10235994_lsiy7dw8umddm9g0kjg_1@5256000pb.m3u8?dw=14400&ts=1731675600
 #EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title="Informazione italiana", 12 TV Parma HD
 https://12tvparma.fluid.stream/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title="Informazione italiana", TvQui HD
