@@ -185,7 +185,6 @@ https://player-api.new.livestream.com/accounts/31041674/events/10233280/broadcas
 #EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title="Informazione italiana", Teleromagna
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title="Informazione italiana", TRC Bologna
-#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=5256000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
 https://playback2.akamaized.net/streams/31041674_10235994_lsiy7dw8umddm9g0kjg_1/exp=1731764564~acl=%2f*~data=hdntl~hmac=eeac2479591c96f752f3b6359f7b800a09efd35dd88b8909d6ea2f8aefc8182e/media/31041674_10235994_lsiy7dw8umddm9g0kjg_1@5256000p.m3u8?dw=14400&ts=1731675600
 #EXTINF:-1 tvg-country="ITALIA" tvg-logo="" group-title="Informazione italiana", 12 TV Parma HD
