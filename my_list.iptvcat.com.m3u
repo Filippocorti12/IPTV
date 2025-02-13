@@ -5688,9 +5688,10 @@ https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
 
 
 #EXTM3U
-- Stai-guardando-I-soliti-idioti-Stagione-1-Episodio-1-Altadefinizione-Community.mp4?rlkey=nz61dou9dp6lvuz7dyp939bq6&st=yie8t6br&dl=1
+#EXTINF:-1 group-title="Serie TV 󠁩", Serie TV
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-1.mp4?rlkey=nz61dou9dp6lvuz7dyp939bq6&st=iz17wygx&dl=1
 #EXTVLCOPT:network-caching=1000
-https://www.dropbox.com/scl/fi/98oka14mniqhsz4e7ox5j/Stai-guardando-I-soliti-idioti-Stagione-1-Episodio-1-Altadefinizione-Community.mp4?rlkey=nz61dou9dp6lvuz7dyp939bq6&st=yie8t6br&dl=1
-#EXTINF:0,Stai-guardando-I-soliti-idioti-Stagione-1-Episodio-2-Altadefinizione-Community.mp4?rlkey=9fftxy9fs49sqg6l7gv19j75x&st=fouuuyny&dl=1
+https://www.dropbox.com/scl/fi/98oka14mniqhsz4e7ox5j/I-soliti-idioti-Stagione-1-Episodio-1.mp4?rlkey=nz61dou9dp6lvuz7dyp939bq6&st=iz17wygx&dl=1
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-2.mp4?rlkey=9fftxy9fs49sqg6l7gv19j75x&st=rp2m8aoj&dl=1
 #EXTVLCOPT:network-caching=1000
-https://www.dropbox.com/scl/fi/8xbrlp7fiyzuzjcwtoduf/Stai-guardando-I-soliti-idioti-Stagione-1-Episodio-2-Altadefinizione-Community.mp4?rlkey=9fftxy9fs49sqg6l7gv19j75x&st=fouuuyny&dl=1
+https://www.dropbox.com/scl/fi/8xbrlp7fiyzuzjcwtoduf/I-soliti-idioti-Stagione-1-Episodio-2.mp4?rlkey=9fftxy9fs49sqg6l7gv19j75x&st=rp2m8aoj&dl=1
