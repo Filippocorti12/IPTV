@@ -155,8 +155,6 @@ https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA80
 https://streaming.softwarecreation.it/CS24/CS24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/supertennis.png" ,SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://it.wikipedia.org/wiki/File:Dazn-logo.png",DAZN
-https://b9dw5h2ujrmzkce86psyvn.cdnessential.net:8443/hls/71urpyq.m3u8?s=phgBCrL056x4RnCUDvaROA&e=1731298716
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/supertennis.png" ,Alma Tv
 https://almatv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
 #EXTINF:-1 , France 24
@@ -5687,3 +5685,12 @@ http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_4000_I-
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?hdnea=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png",NEWS 12 חדשות [mako-src/offline]
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
+
+
+#EXTM3U
+- Stai-guardando-I-soliti-idioti-Stagione-1-Episodio-1-Altadefinizione-Community.mp4?rlkey=nz61dou9dp6lvuz7dyp939bq6&st=yie8t6br&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/98oka14mniqhsz4e7ox5j/Stai-guardando-I-soliti-idioti-Stagione-1-Episodio-1-Altadefinizione-Community.mp4?rlkey=nz61dou9dp6lvuz7dyp939bq6&st=yie8t6br&dl=1
+#EXTINF:0,Stai-guardando-I-soliti-idioti-Stagione-1-Episodio-2-Altadefinizione-Community.mp4?rlkey=9fftxy9fs49sqg6l7gv19j75x&st=fouuuyny&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/8xbrlp7fiyzuzjcwtoduf/Stai-guardando-I-soliti-idioti-Stagione-1-Episodio-2-Altadefinizione-Community.mp4?rlkey=9fftxy9fs49sqg6l7gv19j75x&st=fouuuyny&dl=1
