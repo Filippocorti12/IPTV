@@ -5688,10 +5688,35 @@ https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Serie TV 󠁩", Serie TV
-#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-1.mp4?rlkey=nz61dou9dp6lvuz7dyp939bq6&st=iz17wygx&dl=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/aa/I_soliti_idioti_-_MTV.png" group-title="Serie TV 󠁩", Serie TV
+#EXTINF:0, I soliti idioti
+#EXTINF:1433,:::: Video offerto da altadefinizionecommunity :::: Registrati su altaregistrazione.com ::::: - I-soliti-idioti-Stagione-1-Episodio-1.mp4?rlkey=nz61dou9dp6lvuz7dyp939bq6&st=iz17wygx&dl=1
 #EXTVLCOPT:network-caching=1000
 https://www.dropbox.com/scl/fi/98oka14mniqhsz4e7ox5j/I-soliti-idioti-Stagione-1-Episodio-1.mp4?rlkey=nz61dou9dp6lvuz7dyp939bq6&st=iz17wygx&dl=1
 #EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-2.mp4?rlkey=9fftxy9fs49sqg6l7gv19j75x&st=rp2m8aoj&dl=1
 #EXTVLCOPT:network-caching=1000
 https://www.dropbox.com/scl/fi/8xbrlp7fiyzuzjcwtoduf/I-soliti-idioti-Stagione-1-Episodio-2.mp4?rlkey=9fftxy9fs49sqg6l7gv19j75x&st=rp2m8aoj&dl=1
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-3.mp4?rlkey=o6jzzd46cop0mv9js76x0eykp&st=eyy7dvun&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/ilfymyq8zhjtzovtc59f7/I-soliti-idioti-Stagione-1-Episodio-3.mp4?rlkey=o6jzzd46cop0mv9js76x0eykp&st=eyy7dvun&dl=1
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-4.mp4?rlkey=3y1otc86tgd5mcb0xs7278966&st=1kwdqo3k&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/pbcdi0b7xossnhud99h44/I-soliti-idioti-Stagione-1-Episodio-4.mp4?rlkey=3y1otc86tgd5mcb0xs7278966&st=1kwdqo3k&dl=1
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-5.mp4?rlkey=nrimobc9272zwsr6ztjq3tucx&st=lr7zk3h8&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/q5mkoczf2cnwwg51qh4mj/I-soliti-idioti-Stagione-1-Episodio-5.mp4?rlkey=nrimobc9272zwsr6ztjq3tucx&st=lr7zk3h8&dl=1
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-6.mp4?rlkey=a5x5qkg8vb2wl5grwuzfrfiwi&st=ylzsd3te&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/sbatgiz9sl8wy5eymbdn1/I-soliti-idioti-Stagione-1-Episodio-6.mp4?rlkey=a5x5qkg8vb2wl5grwuzfrfiwi&st=ylzsd3te&dl=1
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-7.mp4?rlkey=z5qvlx6kh6ns02f9173sh3x3q&st=z0c85tge&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/ynd1tkdtfucvkfcugg3c8/I-soliti-idioti-Stagione-1-Episodio-7.mp4?rlkey=z5qvlx6kh6ns02f9173sh3x3q&st=z0c85tge&dl=1
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-8.mp4?rlkey=4vglefnbx2ev8nh1dyc3ccevz&st=7g79hdmt&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/f2hire9saygee8xadynsf/I-soliti-idioti-Stagione-1-Episodio-8.mp4?rlkey=4vglefnbx2ev8nh1dyc3ccevz&st=7g79hdmt&dl=1
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-9.mp4?rlkey=axieb7vc6h6mc1524i20e2ky5&st=6apug0jl&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/2iwopbvu98gwqlpa6jvu1/I-soliti-idioti-Stagione-1-Episodio-9.mp4?rlkey=axieb7vc6h6mc1524i20e2ky5&st=6apug0jl&dl=1
+#EXTINF:0,I-soliti-idioti-Stagione-1-Episodio-10.mp4?rlkey=tdurf5eleufgo9e6er7ruaega&st=o64ta6yz&dl=1
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/scl/fi/k4zzqtg6au5yawfp9hbfv/I-soliti-idioti-Stagione-1-Episodio-10.mp4?rlkey=tdurf5eleufgo9e6er7ruaega&st=o64ta6yz&dl=1
