@@ -5686,6 +5686,10 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rSGfFw/N12n.png",NEWS 12 חדשות [mako-src/offline]
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
 
+#EXTM3U url-tvg="http://localhost:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
+#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="AFHxPdyYaEip8zxyJ72HHw" channel-number="1" CUID="AFHxPdyYaEip8zxyJ72HHw" tvg-chno="1" tvg-name="Harry Potter 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Harry+Potter+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Harry Potter 24/7
+http://localhost:8409/iptv/channel/1.ts
+
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/aa/I_soliti_idioti_-_MTV.png" group-title="Serie TV 󠁩", Serie TV
