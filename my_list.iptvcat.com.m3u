@@ -5688,7 +5688,7 @@ https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
 
 #EXTM3U url-tvg="http://localhost:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="Kj4ig2sER0SavNBWp3GbuA" channel-number="1" CUID="Kj4ig2sER0SavNBWp3GbuA" tvg-chno="1" tvg-name="Harry Potter 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Harry+Potter+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Harry Potter 24/7
-http://localhost:8409/iptv/channel/1.m3u8
+http://192.168.1.2:8409/iptv/channel/1.m3u8
 
 
 #EXTM3U
