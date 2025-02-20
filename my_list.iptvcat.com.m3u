@@ -5688,9 +5688,9 @@ https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
 
 #EXTM3U url-tvg="http://localhost:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="hhl6Yalsr0SCTS9WgB3zLg" channel-number="1" CUID="hhl6Yalsr0SCTS9WgB3zLg" tvg-chno="1" tvg-name="Harry Potter 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Harry+Potter+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Harry Potter 24/7
-http://192.168.1.2:8096/iptv/channel/1.m3u8
-#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="gQzBhaZkzkq5Px0Fn1xXEA" channel-number="2" CUID="gQzBhaZkzkq5Px0Fn1xXEA" tvg-chno="2" tvg-name="I soliti idioti" tvg-logo="http://localhost:8409/iptv/logos/gen?text=I+soliti+idioti" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", I soliti idioti 24/7
-http://192.168.1.2:8096/iptv/channel/2.m3u8
+http://localhost:8409/iptv/channel/1.ts
+#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="gQzBhaZkzkq5Px0Fn1xXEA" channel-number="2" CUID="gQzBhaZkzkq5Px0Fn1xXEA" tvg-chno="2" tvg-name="I soliti idioti 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=I+soliti+idioti+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", I soliti idioti 24/7
+http://localhost:8409/iptv/channel/2.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/aa/I_soliti_idioti_-_MTV.png" group-title="Serie TV 󠁩", Serie TV
