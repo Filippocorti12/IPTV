@@ -5691,6 +5691,8 @@ https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
 http://192.168.1.2:8409/iptv/channel/1.m3u8
 #EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="gQzBhaZkzkq5Px0Fn1xXEA" channel-number="2" CUID="gQzBhaZkzkq5Px0Fn1xXEA" tvg-chno="2" tvg-name="I soliti idioti 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=I+soliti+idioti+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", I soliti idioti 24/7
 http://192.168.1.2:8409/iptv/channel/2.m3u8
+#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="lmZBfCBBykWVTrSx97BrBg" channel-number="3" CUID="lmZBfCBBykWVTrSx97BrBg" tvg-chno="3" tvg-name="Ritorno al futuro 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Ritorno+al+futuro+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Ritorno al futuro 24/7
+http://192.168.1.2:8409/iptv/channel/3.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/aa/I_soliti_idioti_-_MTV.png" group-title="Serie TV 󠁩", Serie TV
