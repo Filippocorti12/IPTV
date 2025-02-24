@@ -5687,12 +5687,16 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8
 https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8
 
 #EXTM3U url-tvg="http://localhost:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
-#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="hhl6Yalsr0SCTS9WgB3zLg" channel-number="1" CUID="hhl6Yalsr0SCTS9WgB3zLg" tvg-chno="1" tvg-name="Harry Potter 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Harry+Potter+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Harry Potter 24/7
+#EXTINF:0 tvg-id="C1.145.ersatztv.org" channel-id="MvtAKhMCTUiqIUJtKPeCkg" channel-number="1" CUID="MvtAKhMCTUiqIUJtKPeCkg" tvg-chno="1" tvg-name="Harry Potter 24/7" tvg-logo="http://localhost:8409/iptv/logos/FE5094E04F774A96DC3CFA5AD005F303.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Harry Potter 24/7
 http://192.168.1.2:8409/iptv/channel/1.m3u8
-#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="gQzBhaZkzkq5Px0Fn1xXEA" channel-number="2" CUID="gQzBhaZkzkq5Px0Fn1xXEA" tvg-chno="2" tvg-name="I soliti idioti 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=I+soliti+idioti+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", I soliti idioti 24/7
+#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="7Cimgotj7kG5FMU1TJI_tg" channel-number="2" CUID="7Cimgotj7kG5FMU1TJI_tg" tvg-chno="2" tvg-name="I soliti idioti 24/7" tvg-logo="http://localhost:8409/iptv/logos/06185BD41C7F2F285DA5B3183816DEFD.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", I soliti idioti 24/7
 http://192.168.1.2:8409/iptv/channel/2.m3u8
-#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="lmZBfCBBykWVTrSx97BrBg" channel-number="3" CUID="lmZBfCBBykWVTrSx97BrBg" tvg-chno="3" tvg-name="Ritorno al futuro 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Ritorno+al+futuro+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Ritorno al futuro 24/7
+#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="6Cy5tOsyMkWBsMTwhmTmMg" channel-number="3" CUID="6Cy5tOsyMkWBsMTwhmTmMg" tvg-chno="3" tvg-name="Ritorno al futuro 24/7" tvg-logo="http://localhost:8409/iptv/logos/267BE7D8AE9E905A7A5B343AB78C5DA0.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Ritorno al futuro 24/7
 http://192.168.1.2:8409/iptv/channel/3.m3u8
+#EXTINF:0 tvg-id="C4.148.ersatztv.org" channel-id="JflrOYw-20m5pNpsXc1MSw" channel-number="4" CUID="JflrOYw-20m5pNpsXc1MSw" tvg-chno="4" tvg-name="Indiana Jones 24/7" tvg-logo="http://localhost:8409/iptv/logos/8D12BF4468473BC6B8B8F6A65D9173CC.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Indiana Jones 24/7
+http://192.168.1.2:8409/iptv/channel/4.m3u8
+#EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="7C9xlrLMLESbhU5od69oFQ" channel-number="5" CUID="7C9xlrLMLESbhU5od69oFQ" tvg-chno="5" tvg-name="Men in Black 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Men+in+Black+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Men in Black 24/7
+http://192.168.1.2:8409/iptv/channel/5.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/aa/I_soliti_idioti_-_MTV.png" group-title="Serie TV 󠁩", Serie TV
