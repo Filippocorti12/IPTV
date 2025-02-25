@@ -5697,6 +5697,11 @@ http://192.168.1.2:8409/iptv/channel/3.m3u8
 http://192.168.1.2:8409/iptv/channel/4.m3u8
 #EXTINF:0 tvg-id="C5.149.ersatztv.org" channel-id="7C9xlrLMLESbhU5od69oFQ" channel-number="5" CUID="7C9xlrLMLESbhU5od69oFQ" tvg-chno="5" tvg-name="Men in Black 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Men+in+Black+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Men in Black 24/7
 http://192.168.1.2:8409/iptv/channel/5.m3u8
+#EXTINF:0 tvg-id="C6.150.ersatztv.org" channel-id="8iBhypIrnU2Tg6nW3TJplw" channel-number="6" CUID="8iBhypIrnU2Tg6nW3TJplw" tvg-chno="6" tvg-name="Batman 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Batman+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Batman 24/7
+http://192.168.1.2:8409/iptv/channel/6.m3u8
+#EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="Dj_I9ezAbkishek2h_0BZQ" channel-number="7" CUID="Dj_I9ezAbkishek2h_0BZQ" tvg-chno="7" tvg-name="MTV music channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=MTV+music+channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MTV music channel 24/7
+http://192.168.1.2:8409/iptv/channel/7.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/aa/I_soliti_idioti_-_MTV.png" group-title="Serie TV 󠁩", Serie TV
