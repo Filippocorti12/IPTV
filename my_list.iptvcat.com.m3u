@@ -5699,17 +5699,16 @@ http://192.168.1.2:8409/iptv/channel/4.m3u8
 http://192.168.1.2:8409/iptv/channel/5.m3u8
 #EXTINF:0 tvg-id="C6.150.ersatztv.org" channel-id="8iBhypIrnU2Tg6nW3TJplw" channel-number="6" CUID="8iBhypIrnU2Tg6nW3TJplw" tvg-chno="6" tvg-name="Batman Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Batman+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Batman Channel 24/7
 http://192.168.1.2:8409/iptv/channel/6.m3u8
-#EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="Dj_I9ezAbkishek2h_0BZQ" channel-number="7" CUID="Dj_I9ezAbkishek2h_0BZQ" tvg-chno="7" tvg-name="MTV music channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=MTV+music+channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MTV music channel 24/7
+#EXTINF:0 tvg-id="C7.151.ersatztv.org" channel-id="OUEUYJ088kqTQc1Ccjq2oA" channel-number="7" CUID="OUEUYJ088kqTQc1Ccjq2oA" tvg-chno="7" tvg-name="Dragon Ball Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Dragon+Ball+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Dragon Ball Channel 24/7
 http://192.168.1.2:8409/iptv/channel/7.m3u8
-#EXTINF:0 tvg-id="C8.152.ersatztv.org" channel-id="OUEUYJ088kqTQc1Ccjq2oA" channel-number="8" CUID="OUEUYJ088kqTQc1Ccjq2oA" tvg-chno="8" tvg-name="Dragon Ball Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Dragon+Ball+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Dragon Ball Channel 24/7
+#EXTINF:0 tvg-id="C8.152.ersatztv.org" channel-id="aCIfr_AqA06zu60KR71Vhw" channel-number="8" CUID="aCIfr_AqA06zu60KR71Vhw" tvg-chno="8" tvg-name="Tom&Jerry Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Tom%26Jerry+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Tom&Jerry Channel 24/7
 http://192.168.1.2:8409/iptv/channel/8.m3u8
-#EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="aCIfr_AqA06zu60KR71Vhw" channel-number="9" CUID="aCIfr_AqA06zu60KR71Vhw" tvg-chno="9" tvg-name="Tom&Jerry Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Tom%26Jerry+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Tom&Jerry Channel 24/7
+#EXTINF:0 tvg-id="C9.153.ersatztv.org" channel-id="ZRwFAh0360Wu_5zcTQpcxg" channel-number="9" CUID="ZRwFAh0360Wu_5zcTQpcxg" tvg-chno="9" tvg-name="Siamo fatti così Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Siamo+fatti+cos%C3%AC+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Siamo fatti così Channel 24/7
 http://192.168.1.2:8409/iptv/channel/9.m3u8
-#EXTINF:0 tvg-id="C10.193.ersatztv.org" channel-id="ZRwFAh0360Wu_5zcTQpcxg" channel-number="10" CUID="ZRwFAh0360Wu_5zcTQpcxg" tvg-chno="10" tvg-name="Siamo fatti così Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Siamo+fatti+cos%C3%AC+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Siamo fatti così Channel 24/7
-http://192.168.1.2:8409/iptv/channel/10.m3u8
-#EXTINF:0 tvg-id="C11.194.ersatztv.org" channel-id="sRg-HMpRc0qyAW2B3ZrGbw" channel-number="11" CUID="sRg-HMpRc0qyAW2B3ZrGbw" tvg-chno="11" tvg-name="Lupin - Il principe dei ladri Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Lupin+-+Il+principe+dei+ladri+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Lupin - Il principe dei ladri Channel 24/7
+#EXTINF:0 tvg-id="C11.194.ersatztv.org" channel-id="Z6RqJbsSD0iCad2IP2cQlQ" channel-number="11" CUID="Z6RqJbsSD0iCad2IP2cQlQ" tvg-chno="11" tvg-name="MTV music video 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=MTV+music+video+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", MTV music video 24/7
 http://192.168.1.2:8409/iptv/channel/11.m3u8
-
+#EXTINF:0 tvg-id="C10.193.ersatztv.org" channel-id="sRg-HMpRc0qyAW2B3ZrGbw" channel-number="10" CUID="sRg-HMpRc0qyAW2B3ZrGbw" tvg-chno="10" tvg-name="Lupin - Il principe dei ladri Channel 24/7" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Lupin+-+Il+principe+dei+ladri+Channel+24%2F7" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Lupin - Il principe dei ladri Channel 24/7
+http://192.168.1.2:8409/iptv/channel/10.m3u8
 
 
 #EXTM3U
